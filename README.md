@@ -1,6 +1,6 @@
 # Hacker News Client per iOS
 
-Un'applicazione realizzata completamente con SwiftUI per visualizzare le notizie da Hacker News. Come da indicazioni, l'app mostra le liste delle notizie, delle storie più popolari e delle migliori storie. Supporta la funzionalità di pull-to-refresh.
+Un'applicazione realizzata completamente con SwiftUI per visualizzare le notizie da Hacker News. Come da indicazioni, l'app mostra le liste delle novità, delle storie più popolari e delle migliori storie. Supporta la funzionalità di pull-to-refresh.
 
 ## Requisiti
 
